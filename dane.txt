@@ -1,0 +1,15 @@
+{
+    "saldo": "115.00",
+    "magazyn": {
+        "kubek": {
+            "cena": "10.00",
+            "ilosc": 2
+        }
+    },
+    "historia": [
+        "saldo: 100,00 zł; stan konta: 100,00 zł",
+        "zakup: kubek, 2 szt. po 10,00 zł; wartość: 20,00 zł; stan konta: 80,00 zł",
+        "saldo: 25,00 zł; stan konta: 105,00 zł",
+        "saldo: 10,00 zł; stan konta: 115,00 zł"
+    ]
+}
